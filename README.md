@@ -1,2 +1,2 @@
 # list-all-available-ip
-List all available IP addresses in all Subnets in the selected subnet. 
+A runbook which gets all the Subnets, total IP addresses available and remaining IP addresses in each Subnet.
